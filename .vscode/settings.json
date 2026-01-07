@@ -4,5 +4,6 @@
     },
     "files.associations": {
         "appsettings*.json": "jsonc"
-    }
+    },
+    "python.languageServer": "None"
 }
